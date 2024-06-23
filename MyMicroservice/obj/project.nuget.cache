@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "PM0x8w/Moe+4OIad86xYwWQ6APFDQzz5FTGhsVns1nsyAO66dhJS2DPPBHymJkx/nS0sPHvne6kLY5g9EdR1jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moes9\\Documents\\Coding\\Microsoft Learn C#\\VS\\Miucroservices2\\MyMicroservice\\MyMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moes9\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-preview.1.24081.5\\microsoft.aspnetcore.openapi.9.0.0-preview.1.24081.5.nupkg.sha512",
+    "C:\\Users\\moes9\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\moes9\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\moes9\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\moes9\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\moes9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\moes9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MyMicroservice depends on Microsoft.AspNetCore.OpenApi (>= 9.0.0-alpha.1.23577.26) but Microsoft.AspNetCore.OpenApi 9.0.0-alpha.1.23577.26 was not found. An approximate best match of Microsoft.AspNetCore.OpenApi 9.0.0-preview.1.24081.5 was resolved.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
